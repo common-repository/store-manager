@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Store Manager\n"
+"POT-Creation-Date: 2016-02-27 22:44+0100\n"
+"PO-Revision-Date: 2016-02-27 22:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPathExcluded-0: leaflet\n"
+"X-Poedit-SearchPathExcluded-1: lang\n"
+
+#: includes/class-store-manager.php:32 includes/class-store-manager.php:300
+#: includes/template-single-store.php:41
+msgid "Address"
+msgstr "Adres"
+
+#: includes/class-store-manager.php:33
+msgid "Address (extra line)"
+msgstr "Adres (tweede regel)"
+
+#: includes/class-store-manager.php:34
+msgid "Zipcode"
+msgstr "Postcode"
+
+#: includes/class-store-manager.php:35
+msgid "Place"
+msgstr "Plaats"
+
+#: includes/class-store-manager.php:36 includes/class-store-manager.php:548
+msgid "Country"
+msgstr "Land"
+
+#: includes/class-store-manager.php:37
+msgid "Radius"
+msgstr "Radius"
+
+#: includes/class-store-manager.php:38 includes/class-store-manager.php:884
+msgid "Submit"
+msgstr "Verzenden"
+
+#: includes/class-store-manager.php:40
+msgid "Sunday"
+msgstr "Zondag"
+
+#: includes/class-store-manager.php:41
+msgid "Monday"
+msgstr "Maandag"
+
+#: includes/class-store-manager.php:42
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: includes/class-store-manager.php:43
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: includes/class-store-manager.php:44
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: includes/class-store-manager.php:45
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: includes/class-store-manager.php:46
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: includes/class-store-manager.php:48
+msgid "Contact person"
+msgstr "Contactpersoon"
+
+#: includes/class-store-manager.php:49
+msgid "Email address"
+msgstr "Email adres"
+
+#: includes/class-store-manager.php:50
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+#: includes/class-store-manager.php:51
+msgid "Website"
+msgstr "Website"
+
+#: includes/class-store-manager.php:115 includes/class-store-manager.php:117
+msgid "Stores"
+msgstr "Winkels"
+
+#: includes/class-store-manager.php:116 includes/class-store-manager.php:118
+msgid "Store"
+msgstr "Winkel"
+
+#: includes/class-store-manager.php:119
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: includes/class-store-manager.php:120
+msgid "Add New Store"
+msgstr "Nieuwe winkel toevoegen"
+
+#: includes/class-store-manager.php:121
+msgid "New Store"
+msgstr "Nieuwe winkel"
+
+#: includes/class-store-manager.php:122
+msgid "Edit Store"
+msgstr "Winkel bewerken"
+
+#: includes/class-store-manager.php:123
+msgid "View Store"
+msgstr "Winkel bekijken"
+
+#: includes/class-store-manager.php:124
+msgid "All Stores"
+msgstr "Alle winkels"
+
+#: includes/class-store-manager.php:125
+msgid "Search Stores"
+msgstr "Winkels zoeken"
+
+#: includes/class-store-manager.php:126
+msgid "Parent Stores:"
+msgstr "Ouder winkels:"
+
+#: includes/class-store-manager.php:127
+msgid "No stores found."
+msgstr "Geen winkels gevonden."
+
+#: includes/class-store-manager.php:128
+msgid "No stores found in Trash."
+msgstr "Geen winkels gevonden in de prullenbak."
+
+#: includes/class-store-manager.php:194
+msgid "Store Manager"
+msgstr "Winkel beheerder"
+
+#: includes/class-store-manager.php:199
+msgid "Options"
+msgstr "Opties"
+
+#: includes/class-store-manager.php:298
+msgid "Photo gallery"
+msgstr "Fotogalerij"
+
+#: includes/class-store-manager.php:299 includes/template-single-store.php:33
+msgid "Contact Information"
+msgstr "Contactinformatie"
+
+#: includes/class-store-manager.php:301 includes/template-single-store.php:50
+msgid "Opening Hours"
+msgstr "Openingstijden"
+
+#: includes/class-store-manager.php:351
+msgid "Edit photo gallery"
+msgstr "Fotogalerij bewerken"
+
+#: includes/class-store-manager.php:422
+msgid "Check address at your geocoding provider"
+msgstr "Adres controleren bij uw geocoderingsleverancier"
+
+#: includes/class-store-manager.php:448 includes/class-store-manager.php:451
+#: includes/class-store-manager.php:454 includes/class-store-manager.php:457
+#: includes/class-store-manager.php:460 includes/class-store-manager.php:463
+#: includes/class-store-manager.php:466
+msgid "Add Time slot"
+msgstr "Tijdsleuf toevoegen"
+
+#: includes/class-store-manager.php:544
+msgid "Store Manager Options"
+msgstr "Winkel beheerder opties"
+
+#: includes/class-store-manager.php:554
+msgid "Unit"
+msgstr "Eenheid"
+
+#: includes/class-store-manager.php:557
+msgid "Kilometres"
+msgstr "Kilometer"
+
+#: includes/class-store-manager.php:558
+msgid "Miles"
+msgstr "Mijl"
+
+#: includes/class-store-manager.php:563
+msgid "Geolocation provider"
+msgstr "Geolocatie leverancier"
+
+#: includes/class-store-manager.php:576
+msgid "Save Changes"
+msgstr "Veranderingen opslaan"
+
+#: includes/class-store-manager.php:636
+msgid "check coordinates on the map"
+msgstr "Coördinaten controleren op de kaart"
+
+#: includes/class-store-manager.php:679
+msgid "Nothing found"
+msgstr "Niets gevonden"
+
+#: includes/class-store-manager.php:715
+msgid "Could not find supplier"
+msgstr "Kon leverancier niet vinden"
+
+#: includes/class-store-manager.php:730
+msgid "Could not find coordinates for this address"
+msgstr "Kon geen coördinaten vinden voor dit adres"
+
+#: includes/class-store-manager.php:736
+msgid "Incorrect input"
+msgstr "Ongeldige invoer"
+
+#: includes/class-supplier-google.php:113
+msgid "API browser Key"
+msgstr "API browser key"
+
+#: includes/class-supplier-google.php:114
+msgid "API server Key"
+msgstr "API server Key"
+
+#: includes/class-supplier-openstreetmap.php:118
+msgid "Source string"
+msgstr "Bron string"
+
+#: includes/class-supplier-openstreetmap.php:119
+msgid "Base URL to external map"
+msgstr "Basis URL voor de externe kaart"
+
+#: includes/class-supplier-openstreetmap.php:120
+msgid "Nominatim base URL"
+msgstr "Nominatim basis URL"
+
+#: includes/template-single-store.php:70
+msgid "contact page manager"
+msgstr "Contacteer pagina beheerder"
